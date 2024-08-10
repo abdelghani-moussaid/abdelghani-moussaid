@@ -9,4 +9,4 @@
 
 ## Projects
 - The Odin Project: Calculator, Landing Page, Admin Dashboard, Restaurant Page, Tic Tac Toe, Todo List
-- CS50W: Wiki, Airport
+- CS50w: Wiki, Airport
