@@ -8,5 +8,5 @@
 - Currently: The Odin Project (since April 2024)
 
 ## Projects
-- The Odin Project: Calculator, Landing Page, Admin Dashboard, Restaurant Page, Tic Tac Toe, Todo List
+- The Odin Project: Calculator, Landing Page, Admin Dashboard, Restaurant Page, Tic Tac Toe, Todo List, Weather App
 - CS50w: Wiki, Airport
