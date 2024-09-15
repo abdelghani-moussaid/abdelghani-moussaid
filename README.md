@@ -6,7 +6,7 @@
 🇲🇦 Software engineer from Morocco | 🏃‍♂️ Long-distance runner<br> Transitioning to Full Stack Development
 
 ## Skills & Focus
-- .Net, JavaScript, HTML, CSS
+- C#, .Net, Angular, JavaScript, HTML, CSS
 - Currently: The Odin Project (since April 2024)
 
 ## Projects
