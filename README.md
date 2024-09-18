@@ -7,8 +7,6 @@
 - C#, .Net, Angular, JavaScript, HTML, CSS
 
 ## Projects
-- CareHub:
-  - A healthcare management system for managing patient records, doctor scheduling, and appointments.
-  - Deployed on Azure.
+- ASP.NET web application: CareHub is a high-performance hospital management system developed with C# and ASP.NET Core, featuring patient management, appointment scheduling, and a comprehensive dashboard. This application enhances operational efficiency and streamlines data flow in healthcare settings. CareHub is deployed on Azure.
 - The Odin Project: Calculator, Landing Page, Admin Dashboard, Restaurant Page, Tic Tac Toe, Todo List, Weather App
 - CS50w: Wiki, Airport
