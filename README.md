@@ -1,7 +1,7 @@
 # 👨‍💻 Abdelghani Moussaid
 
 ## About Me
-🇲🇦 Software engineer from Morocco | 🏃‍♂️ Long-distance runner<br> Transitioning to Full Stack Development
+🇲🇦 Software engineer from Morocco | 🏃‍♂️ Long-distance runner<br> Full Stack Development Enthusiast
 
 ## Skills & Focus
 - C#, .Net, Angular, JavaScript, HTML, CSS
