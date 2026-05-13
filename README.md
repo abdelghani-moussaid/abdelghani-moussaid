@@ -46,5 +46,5 @@ Previously engineered a custom ERP solution that cut manual data exchange by 30%
 
 ---
 📫 **Connect with me:**
-* 💼 [Portfolio]([https://www.linkedin.com/in/abdelghani-moussaid](https://abdelghani-moussaid.github.io/))
+* 💼 [Portfolio](https://abdelghani-moussaid.github.io/)
 * 🐦 Also on Instagram/FB/X as @abdelmusd
