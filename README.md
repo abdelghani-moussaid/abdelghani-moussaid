@@ -15,7 +15,7 @@ I specialize in the intersection of stable enterprise architecture and extreme p
 
 ### 🚀 Featured Projects: 
 
-## 🛡️ AOTel - Zero-Allocation OTLP Edge Proxy
+**AOTel - Zero-Allocation OTLP Edge Proxy**
 
 An open-source, high-performance ingestion proxy shield designed for OpenTelemetry (OTLP) workloads. Built entirely with .NET 10 and Native AOT to process telemetry data with minimal overhead.
 
@@ -24,16 +24,14 @@ An open-source, high-performance ingestion proxy shield designed for OpenTelemet
 
 ---
 
-## ZatcaOracle v2.0 - High-Performance QR Engine
+**ZatcaOracle v2.0 - High-Performance QR Engine**
 
-A .NET 10 Native AOT microservice specifically engineered for ZATCA Phase 2 compliance. It is designed to act as a drop-in, high-throughput cryptographic bridge for high-concurrency environments.
+A high-throughput cryptographic bridge engineered for ZATCA Phase 2 compliance, optimized for sub-millisecond execution in high-concurrency environments.
 
-* **Ultra-Low Latency:** Achieves sub-millisecond execution (P99 < 1ms). Live production benchmarks demonstrate 0.76ms internal compute via Native AOT. Scales to 3,300+ TPS using `--cpu-boost` optimized orchestration.
-* **Infrastructure & Security:** Built on a Distroless Chiseled architecture. Cryptographic primitives are executed in a Zero-Shell environment, ensuring public key materials process in a secure, isolated memory space.
-* **Strict Compliance:** Guarantees 100% Saudi Data Residency by deploying directly in me-central2 (Dammam).
-* **Optimized API Strategy:** Features a "Magic Path" (1ms execution) that auto-extracts cryptographic materials for frictionless onboarding. Production workflows utilize a cached "Pro Path" (0.78ms execution) to achieve maximum throughput.
-* **Developer & AI Ready:** Available on RapidAPI. ZatcaOracle is fully MCP-native, allowing seamless configuration as a tool directly inside IDEs like Cursor and Claude. 
+* **Ultra-Low Latency:** Achieves sub-1ms internal compute (P99 < 1ms) utilizing a reflection-free, zero-allocation backend and Distroless Chiseled architecture.
+* **Regional Compliance & Speed:** Guarantees 100% Saudi Data Residency via me-central2 (Dammam) deployment, supporting 3,300+ TPS and MCP-native integration for direct IDE workflows.
 
+*While production benchmarks show sub-millisecond execution, performance through the RapidAPI gateway is subject to third-party network overhead and may not reflect the local low-latency or data residency guarantees of direct deployment.*
 ---
 
 ### 💼 Enterprise Engineering Experience
