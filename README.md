@@ -31,7 +31,7 @@ A high-throughput cryptographic bridge engineered for ZATCA Phase 2 compliance, 
 * **Ultra-Low Latency:** Achieves sub-1ms internal compute (P99 < 1ms) utilizing a reflection-free, zero-allocation backend and Distroless Chiseled architecture.
 * **Regional Compliance & Speed:** Guarantees 100% Saudi Data Residency via me-central2 (Dammam) deployment, supporting 3,300+ TPS and MCP-native integration for direct IDE workflows.
 
-*While production benchmarks show sub-millisecond execution, performance through the RapidAPI gateway is subject to third-party network overhead and may not reflect the local low-latency or data residency guarantees of direct deployment.*
+<sup><sub>While production benchmarks show sub-millisecond execution, performance through the RapidAPI gateway is subject to third-party network overhead and may not reflect the local low-latency or data residency guarantees of direct deployment.</sup></sub>
 ---
 
 ### 💼 Enterprise Engineering Experience
