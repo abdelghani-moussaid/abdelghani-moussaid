@@ -3,7 +3,7 @@
 
 🇲🇦 Based in Casablanca, Morocco | 🏃‍♂️ Hybrid Athlete: Marathon & Trail Runner
 
-I specialize in the intersection of stable enterprise architecture and extreme performance optimization. When I'm not reducing infrastructure costs with zero-allocation code or building micro-SaaS solutions, I'm training for my next long-distance race.
+I specialize in the intersection of stable enterprise architecture and extreme performance optimization. When I'm not reducing infrastructure costs with zero-allocation code or building micro-SaaS solutions, I'm training for my next long-distance race. 
 
 ### 🛠️ Core Stack & Focus
 * **Backend & Architecture:** C#, .NET 10, Native AOT, Microservices, ASP.NET Web APIs
@@ -17,7 +17,7 @@ I specialize in the intersection of stable enterprise architecture and extreme p
 
 **AOTel - Zero-Allocation OTLP Edge Proxy**
 
-An open-source, high-performance ingestion proxy shield designed for OpenTelemetry (OTLP) workloads. Built entirely with .NET 10 and Native AOT to process telemetry data with minimal overhead.
+Creator and Lead Maintainer of AOTel. An open-source, high-performance ingestion proxy shield designed for OpenTelemetry (OTLP) workloads. Built entirely with .NET 10 and Native AOT to process telemetry data with minimal overhead.
 
 * **Zero-Allocation Hot Paths:** Engineered to handle massive ingestion spikes without triggering garbage collection pauses, ensuring consistent, ultra-low latency.
 * **Edge-Optimized:** Compiles to a tiny, standalone Native AOT binary, making it an ideal lightweight shield for edge deployments and microservice architectures.
@@ -26,7 +26,7 @@ An open-source, high-performance ingestion proxy shield designed for OpenTelemet
 
 **ZatcaOracle v2.0 - High-Performance QR Engine**
 
-A high-throughput cryptographic bridge engineered for ZATCA Phase 2 compliance, optimized for sub-millisecond execution in high-concurrency environments.
+Creator and Lead Maintainer of ZatcaOracle. A high-throughput cryptographic bridge engineered for ZATCA Phase 2 compliance, optimized for sub-millisecond execution in high-concurrency environments.
 
 * **Ultra-Low Latency:** Achieves sub-1ms internal compute (P99 < 1ms) utilizing a reflection-free, zero-allocation backend and Distroless Chiseled architecture.
 * **Regional Compliance & Speed:** Guarantees 100% Saudi Data Residency via me-central2 (Dammam) deployment, supporting 3,300+ TPS and MCP-native integration for direct IDE workflows.
