@@ -17,7 +17,7 @@ I specialize in the intersection of stable enterprise architecture and extreme p
 
 **AOTel - Zero-Allocation OTLP Edge Proxy**
 
-Creator and Lead Maintainer of AOTel. An open-source, high-performance ingestion proxy shield designed for OpenTelemetry (OTLP) workloads. Built entirely with .NET 10 and Native AOT to process telemetry data with minimal overhead.
+Creator and Lead Maintainer of AOTel: An open-source, high-performance ingestion proxy shield designed for OpenTelemetry (OTLP) workloads. Built entirely with .NET 10 and Native AOT to process telemetry data with minimal overhead.
 
 * **Zero-Allocation Hot Paths:** Engineered to handle massive ingestion spikes without triggering garbage collection pauses, ensuring consistent, ultra-low latency.
 * **Edge-Optimized:** Compiles to a tiny, standalone Native AOT binary, making it an ideal lightweight shield for edge deployments and microservice architectures.
@@ -26,7 +26,7 @@ Creator and Lead Maintainer of AOTel. An open-source, high-performance ingestion
 
 **ZatcaOracle v2.0 - High-Performance QR Engine**
 
-Creator and Lead Maintainer of ZatcaOracle. A high-throughput cryptographic bridge engineered for ZATCA Phase 2 compliance, optimized for sub-millisecond execution in high-concurrency environments.
+Creator and Lead Maintainer of ZatcaOracle: A high-throughput cryptographic bridge engineered for ZATCA Phase 2 compliance, optimized for sub-millisecond execution in high-concurrency environments.
 
 * **Ultra-Low Latency:** Achieves sub-1ms internal compute (P99 < 1ms) utilizing a reflection-free, zero-allocation backend and Distroless Chiseled architecture.
 * **Regional Compliance & Speed:** Guarantees 100% Saudi Data Residency via me-central2 (Dammam) deployment, supporting 3,300+ TPS and MCP-native integration for direct IDE workflows.
