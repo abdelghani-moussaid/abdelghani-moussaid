@@ -1,5 +1,5 @@
 # 👨‍💻 Abdelghani Moussaid
-**Full-Stack Software Engineer | .NET & Angular | Native AOT Specialist**
+**Full-Stack Software Engineer | .NET & Angular**
 
 🇲🇦 Based in Casablanca, Morocco | 🏃‍♂️ Hybrid Athlete: Marathon & Trail Runner
 
